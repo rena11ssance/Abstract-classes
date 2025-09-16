@@ -21,7 +21,6 @@ namespace Abstract_classes
         public void ShowInfo()
         {
             Console.WriteLine(Name);
-            Say();
         }
         }
     }
